@@ -1,5 +1,0 @@
-Para executar a meta-heurística GRASP, siga os seguintes passos:
-
-1) Abra um terminal detro da pasta GRASP e execute: g++ -o run GRASP.cpp
-
-2) Execute run --alpha (um número de 0.1 até 1.0) -- GRASPmax (qualquer número inteiro)
